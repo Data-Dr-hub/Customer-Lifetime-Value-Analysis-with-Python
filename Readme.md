@@ -70,7 +70,7 @@ Based on these findings, we recommend the following actions:
 |                  | If used for direct sales, optimize targeting, messaging, and calls to action. | Improve conversion rates if direct sales is the goal.                                                                                                               |
 ## Project Structure
 
-* `cltv_analysis.ipynb`: Python notebook containing the complete analysis.
+* [CLTV Analysis](cltv_analysis.ipynb): Python notebook containing the complete analysis.
 
 ## Key Takeaways
 
